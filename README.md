@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Deployment of projects in Ruby and Python
+- 🔭 I’m currently working on Deployment of projects in Ruby
 - 🌱 I’m currently learning React using MongoDB, JS, Node.js, Express
 - 💪 I'm currently fluent in computer languages: Python, Ruby, JavaScript
 - 🔬 I currently have deployed: http://18.118.213.81/
