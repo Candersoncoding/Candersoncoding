@@ -21,10 +21,13 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" align="left">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" align="left"> 
 <br></br>
+
 ## Currently deployed:
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="Made with Python" align="left"> http://18.118.213.81/
+
 ## How to reach me: 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="left"> dev.cory.anderson@gmail.com
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"> https://www.linkedin.com/in/cory-anderson-773148218/
 
 
