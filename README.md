@@ -38,3 +38,4 @@
 ## Check out my LinkedIn:
 <a href="https://www.linkedin.com/in/cory-anderson-773148218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"></a>
 
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=Candersoncoding&theme=radical)
