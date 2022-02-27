@@ -2,7 +2,7 @@
 
 
 ## I'm currently learning React
-<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="TypeScript" align="center">
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=ts&logoColor=61DAFB" alt="TypeScript" align="center">
 
 ## My current skills are in:
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" align="left">
