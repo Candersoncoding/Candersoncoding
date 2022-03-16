@@ -1,7 +1,7 @@
 ### Hi I'm Cory👋
 
 
-## I'm currently learning React
+## I'm currently learning Typescript
 <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C5" alt="TypeScript" align="center">
 
 
